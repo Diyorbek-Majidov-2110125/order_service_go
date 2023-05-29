@@ -1,0 +1,3 @@
+[submodule "order_user_protos"]
+	path = order_user_protos
+	url = git@github.com:Diyorbek-Majidov-2110125/order_user_protos.git
